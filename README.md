@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python-Basics
-Datasetscan be downloaded from Kaggel 
+Datasets can be downloaded from Kaggel 
